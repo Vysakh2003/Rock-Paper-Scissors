@@ -4,13 +4,13 @@ Rock paper scissors is a hand game, usually played between two people, in which 
 # How To Play
 -✔️ The game randomly selects a target score between 50 and 100.<br>
 -✔️ Players are prompted to enter their choice:<br>
-        Type "1" for "ROCK"<br>
-        Type "2" for "PAPER"<br>
-        Type "3" for "SCISSOR"<br>
+        &nbsp&nbsp&nbsp Type "1" for "ROCK"<br>
+        &nbsp&nbsp&nbsp Type "2" for "PAPER"<br>
+        &nbsp&nbsp&nbsp Type "3" for "SCISSOR"<br>
 -✔️ The game will display the player's choice and the system's choice.<br>
 -✔️ The scores are updated based on the outcome:<br>
-        If the player wins a round, they gain 5 points.<br>
-        If the system wins a round, it gains 5 points.<br>
+        &nbsp&nbsp&nbsp If the player wins a round, they gain 5 points.<br>
+        &nbsp&nbsp&nbsp If the system wins a round, it gains 5 points.<br>
 -✔️ The game continues until either the player or the system reaches or surpasses the target score.<br>
 -✔️ To exit the game at any time, enter "-1".<br>
 
